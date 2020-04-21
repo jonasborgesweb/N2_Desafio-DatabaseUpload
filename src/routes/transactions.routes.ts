@@ -1,5 +1,4 @@
 import { Router } from 'express';
-import path from 'path';
 import multer from 'multer';
 import { getCustomRepository } from 'typeorm';
 
